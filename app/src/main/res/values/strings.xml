@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">actividad05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_user_name">Nombre de usuario</string>
+    <string name="tv_login">Login</string>
+    <string name="et_user_password">Contraseña</string>
+    <string name="btn_access">Acceder</string>
+    <string name="btn_register">Registrar Usuario</string>
+    <string name="et_register_user">Registro</string>
+    <string name="title_game">Titulo del juego</string>
+    <string name="normal_price">PrecioN</string>
+    <string name="image_game">Imagen del Videojuego</string>
+    <string name="deal_price">Oferta</string>
+    <string name="help_text_register_password">* Mínimo 6 caracteres</string>
+</resources>

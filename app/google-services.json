@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923109170865",
+    "project_id": "authentication-b5117",
+    "storage_bucket": "authentication-b5117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923109170865:android:ad7afc53b2761553d00c90",
+        "android_client_info": {
+          "package_name": "com.rubayllo.actividad05"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30_RfYKMFeZjU1rO0DuXYxK8xhAaFEjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923109170865:android:ad3bc6fadf34aac0d00c90",
+        "android_client_info": {
+          "package_name": "com.rubayllo.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30_RfYKMFeZjU1rO0DuXYxK8xhAaFEjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
